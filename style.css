@@ -8,18 +8,22 @@ body{
     width: 33%;
     height: 250px;
     text-align: center;
+    padding-bottom: 20px;
 }
 #comeback{
     float: left;
     width: 33%;
-    height: 250px;
+    height: 200px;
     text-align: center;
+
 }
 #miss{
     float: left;
     width: 33%;
     height: 250px;
     text-align: center;
+    padding-bottom: 20px;
+
 }
 .plus {
     width: 50px;
